@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ismamrl@outlook.com)
 
 
-My name is **Ismael Morel**, you can tell me **isma**, I'm 18 years old and I'm a student of **Full Stack Developer** at CoderHouse and **Systems Engineer**.
+My name is **Ismael Morel**, you can call me **isma**, I'm 18 years old and I'm a student of **Full Stack Developer** at CoderHouse and **Systems Engineer**.
 I am passionate about constantly learning.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
